@@ -1,1 +1,1 @@
-# Equipo Dinamita
+# Equipo Dinamita.
