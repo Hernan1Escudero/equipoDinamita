@@ -1,2 +1,4 @@
 console.log("Dinamita");
-console.log("cocoa")
+
+console.log("hola crack");
+console.log("como va?");
