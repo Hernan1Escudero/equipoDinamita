@@ -1,1 +1,3 @@
-console.log("Equipo Alfa dinamita!!");
+console.log("Equipo dinamita!!");
+
+console.log("error 2")
