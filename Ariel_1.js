@@ -1,1 +1,1 @@
-console.log("Equipo dinamita!!");
+console.log("Equipo Alfa dinamita!!");
